@@ -1,0 +1,6 @@
+{
+  "name": "Pastel PDF",
+  "description": "An all-in-one PDF tool with beautiful pastel themes. Convert, view, edit and sign documents offline, with built-in dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
